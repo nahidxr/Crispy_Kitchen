@@ -38,7 +38,7 @@ https://www.tooplate.com/view/2129-crispy-kitchen
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     Crispy Kitchen
                 </a>
 
