@@ -39,7 +39,7 @@ https://www.tooplate.com/view/2129-crispy-kitchen
                 </button>
                 
                 <a class="navbar-brand" href="index.php">
-                    Crispy Kitchen
+                    Crispy Kitchen House
                 </a>
 
                 <div class="d-lg-none">
