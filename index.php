@@ -226,8 +226,8 @@ https://www.tooplate.com/view/2129-crispy-kitchen
                                 <div class="menu-image-wrap">
                                     <!-- <img src="images/breakfast/brett-jordan-8xt8-HIFqc8-unsplash.jpg" class="img-fluid menu-image" alt=""> -->
                                     <?php echo '<img src="images/menus/' . $row['ImageUrl'] .'" class="img-fluid menu-image" alt="">' ?>
-
-                                    <span class="menu-tag bg-warning">Breakfast</span>
+                                    <!-- Meal_time_name -->
+                                    <span class="menu-tag bg-warning"><?php echo $row['Meal_time_name'] ?></span>
                                 </div>
 
                                 <div class="menu-info d-flex flex-wrap align-items-center">
