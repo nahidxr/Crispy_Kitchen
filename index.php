@@ -213,7 +213,7 @@ https://www.tooplate.com/view/2129-crispy-kitchen
 
                        <?php
 
-                        $link = mysqli_connect('nahid-mysql-db.czk1aergjpmh.eu-west-2.rds.amazonaws.com', 'admin', '12345678', 'crispydb','3306');
+                        $link = mysqli_connect('mysql-container', 'root', '12345678', 'crispydb','3306');
 
                         if ($link) {
                         $res = mysqli_query($link, "select * from products;");
