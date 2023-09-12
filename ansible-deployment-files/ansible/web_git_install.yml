@@ -1,0 +1,6 @@
+---
+ - name: Web Service
+   hosts: web
+   roles:
+     - web_git_install
+

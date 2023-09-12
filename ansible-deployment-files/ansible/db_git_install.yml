@@ -1,0 +1,5 @@
+---
+ - name: DB Service
+   hosts: db
+   roles:
+     - db_git_install
